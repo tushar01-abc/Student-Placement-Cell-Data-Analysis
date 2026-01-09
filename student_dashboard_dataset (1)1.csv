@@ -1,0 +1,501 @@
+Student_ID,Course_Name,Placement_Status,Company_Name,Position,City,Package_LPA,Degree_Marks
+STU1000,MCA,Placed,Wipro,Data Analyst,Kolkata,3.86,50.57
+STU1001,MBA,Placed,Accenture,Software Engineer,Kolkata,4.68,65.42
+STU1002,BBA,Placed,None,Data Analyst,None,16.8,50.08
+STU1003,B.Sc,Placed,Google,Intern,Mumbai,18.35,88.08
+STU1004,MCA,Placed,Infosys,Project Manager,None,12.93,65
+STU1005,B.Sc,Placed,Infosys,Business Analyst,None,24.73,56.57
+STU1006,BCA,Placed,None,Intern,Chennai,6.81,70.28
+STU1007,B.Tech,Not Placed,None,None,None,0,73.05
+STU1008,MBA,Placed,Google,Intern,Mumbai,15.74,81.53
+STU1009,B.Com,Placed,Accenture,Business Analyst,Delhi,18.99,83
+STU1010,BCA,Placed,Infosys,Intern,Mumbai,12.83,52.12
+STU1011,B.Tech,Not Placed,None,None,None,0,65.62
+STU1012,B.Sc,Placed,Wipro,Consultant,Bangalore,15.77,70.33
+STU1013,M.Tech,Placed,Infosys,Consultant,Delhi,21.05,80.1
+STU1014,MBA,Not Placed,None,None,None,0,77.74
+STU1015,MCA,Placed,Accenture,Software Engineer,Chennai,22.12,60.67
+STU1016,B.Tech,Placed,Amazon,Data Analyst,Kolkata,12.07,60.34
+STU1017,B.Com,Placed,None,Project Manager,Bangalore,8.51,55.38
+STU1018,BCA,Placed,Accenture,Intern,Delhi,20.74,76.08
+STU1019,MBA,Not Placed,None,None,None,0,51.1
+STU1020,BBA,Placed,Amazon,Project Manager,Delhi,17.94,58
+STU1021,MBA,Placed,TCS,Intern,Pune,24.51,69.58
+STU1022,MCA,Placed,Tech Mahindra,Business Analyst,Hyderabad,6.58,84.96
+STU1023,B.Tech,Not Placed,None,None,None,0,78.47
+STU1024,MBA,Placed,Amazon,Data Analyst,Delhi,5.18,78.27
+STU1025,MCA,Placed,TCS,Consultant,Delhi,18.45,64.27
+STU1026,BBA,Placed,Accenture,Intern,Kolkata,23.71,70.06
+STU1027,B.Sc,Placed,Google,Project Manager,Hyderabad,3.26,82.59
+STU1028,MBA,Not Placed,None,None,None,0,79.89
+STU1029,B.Tech,Not Placed,None,None,None,0,56.27
+STU1030,B.Sc,Placed,Amazon,Intern,Mumbai,15.76,89.74
+STU1031,M.Tech,Not Placed,None,None,None,0,86.88
+STU1032,B.Tech,Placed,Amazon,Data Analyst,Delhi,18.41,77.48
+STU1033,MBA,Placed,None,Project Manager,None,6.98,70.84
+STU1034,MCA,Placed,Tech Mahindra,Consultant,None,23.47,68.79
+STU1035,B.Tech,Not Placed,None,None,None,0,77.47
+STU1036,B.Tech,Placed,TCS,Project Manager,Delhi,6.54,79.81
+STU1037,B.Tech,Placed,Accenture,Intern,Bangalore,5.46,63.58
+STU1038,BBA,Not Placed,None,None,None,0,71.77
+STU1039,MBA,Placed,None,Data Analyst,Chennai,18.61,80.76
+STU1040,BBA,Placed,Tech Mahindra,Business Analyst,Pune,6.4,89.42
+STU1041,BBA,Not Placed,None,None,None,0,67.82
+STU1042,M.Tech,Placed,Tech Mahindra,Business Analyst,Pune,15.78,90.48
+STU1043,B.Sc,Placed,Google,Project Manager,Hyderabad,16.77,78.77
+STU1044,MBA,Not Placed,None,None,None,0,61.64
+STU1045,M.Tech,Not Placed,None,None,None,0,71.2
+STU1046,MBA,Placed,Tech Mahindra,Project Manager,Kolkata,14.58,58.88
+STU1047,B.Tech,Placed,TCS,Software Engineer,Mumbai,20.79,72.01
+STU1048,MCA,Placed,TCS,Intern,Mumbai,15.41,92.56
+STU1049,B.Sc,Placed,Infosys,Software Engineer,Hyderabad,13.86,59.38
+STU1050,B.Tech,Not Placed,None,None,None,0,92.77
+STU1051,B.Tech,Not Placed,None,None,None,0,74.05
+STU1052,BCA,Not Placed,None,None,None,0,52.06
+STU1053,BBA,Placed,None,Project Manager,Mumbai,8.48,70.55
+STU1054,BCA,Placed,Google,Data Analyst,Bangalore,4.42,93.28
+STU1055,MCA,Placed,Google,Business Analyst,Mumbai,3.47,75.45
+STU1056,BBA,Placed,TCS,Software Engineer,Kolkata,10.9,88.25
+STU1057,MBA,Placed,Tech Mahindra,Business Analyst,Kolkata,9.5,63.18
+STU1058,MBA,Placed,Wipro,Project Manager,Kolkata,23.98,74.08
+STU1059,MBA,Placed,Amazon,Data Analyst,Mumbai,21.17,75.38
+STU1060,B.Sc,Placed,Accenture,Consultant,Pune,7.74,59.38
+STU1061,M.Tech,Not Placed,None,None,None,0,61.54
+STU1062,BCA,Not Placed,None,None,None,0,81.6
+STU1063,MBA,Placed,Google,Project Manager,None,13.34,59.28
+STU1064,BCA,Placed,None,Data Analyst,Chennai,6.39,81.17
+STU1065,BCA,Placed,Google,Business Analyst,Chennai,4.71,77.42
+STU1066,B.Sc,Placed,Google,Data Analyst,Pune,16.5,90.23
+STU1067,MBA,Not Placed,None,None,None,0,83.19
+STU1068,B.Sc,Not Placed,None,None,None,0,57.96
+STU1069,BBA,Placed,Wipro,Business Analyst,Mumbai,14.88,83.49
+STU1070,B.Tech,Placed,Infosys,Data Analyst,Bangalore,18.71,73.83
+STU1071,MCA,Placed,TCS,Data Analyst,None,16.71,90.81
+STU1072,M.Tech,Placed,Wipro,Data Analyst,Pune,7.95,67.56
+STU1073,BBA,Not Placed,None,None,None,0,94.89
+STU1074,BBA,Placed,Tech Mahindra,Software Engineer,Hyderabad,7.91,91.99
+STU1075,MBA,Placed,None,Data Analyst,Pune,24.25,55.65
+STU1076,M.Tech,Placed,Wipro,Consultant,Delhi,6.49,94.96
+STU1077,BBA,Placed,TCS,Data Analyst,Chennai,18.91,51.96
+STU1078,M.Tech,Not Placed,None,None,None,0,81.2
+STU1079,BBA,Not Placed,None,None,None,0,60.62
+STU1080,B.Tech,Not Placed,None,None,None,0,70.82
+STU1081,B.Com,Not Placed,None,None,None,0,68.41
+STU1082,MCA,Placed,Wipro,Consultant,None,22.72,91.94
+STU1083,B.Tech,Not Placed,None,None,None,0,59.5
+STU1084,B.Sc,Placed,Amazon,Data Analyst,Chennai,18.97,79.28
+STU1085,B.Com,Placed,None,Business Analyst,Kolkata,3.18,70.36
+STU1086,M.Tech,Placed,Wipro,Consultant,Delhi,22.03,86.31
+STU1087,MBA,Placed,TCS,Intern,None,4.15,77.56
+STU1088,MBA,Placed,Accenture,Data Analyst,Hyderabad,14.36,90.82
+STU1089,BCA,Placed,Tech Mahindra,Project Manager,Hyderabad,7.42,57.66
+STU1090,B.Sc,Placed,Amazon,Intern,None,7.48,59.19
+STU1091,B.Sc,Placed,TCS,Intern,Kolkata,13.64,66.02
+STU1092,MCA,Placed,Tech Mahindra,Consultant,Bangalore,23.23,82.67
+STU1093,MCA,Placed,Amazon,Project Manager,Delhi,7.86,72.47
+STU1094,B.Sc,Placed,None,Intern,Bangalore,14.71,63.34
+STU1095,B.Com,Not Placed,None,None,None,0,93.23
+STU1096,B.Tech,Not Placed,None,None,None,0,89.85
+STU1097,B.Tech,Placed,Tech Mahindra,Project Manager,Pune,15.71,67.6
+STU1098,MBA,Placed,Wipro,Software Engineer,Bangalore,10.33,75.7
+STU1099,BCA,Placed,None,Consultant,None,21.57,68.73
+STU1100,B.Tech,Not Placed,None,None,None,0,76.58
+STU1101,B.Tech,Placed,TCS,Data Analyst,Bangalore,8.35,50.86
+STU1102,BBA,Not Placed,None,None,None,0,71.18
+STU1103,B.Tech,Not Placed,None,None,None,0,82.44
+STU1104,MCA,Placed,None,Software Engineer,Bangalore,13.54,74.85
+STU1105,BBA,Placed,TCS,Project Manager,Bangalore,11.82,89.62
+STU1106,MCA,Not Placed,None,None,None,0,81.93
+STU1107,MBA,Not Placed,None,None,None,0,74.02
+STU1108,MBA,Not Placed,None,None,None,0,84.05
+STU1109,MBA,Placed,Google,Software Engineer,Kolkata,20.17,83.41
+STU1110,BCA,Placed,None,Consultant,None,3.2,90.49
+STU1111,B.Sc,Not Placed,None,None,None,0,59.52
+STU1112,MBA,Not Placed,None,None,None,0,65.71
+STU1113,MBA,Not Placed,None,None,None,0,86.56
+STU1114,B.Sc,Placed,Google,Consultant,Pune,23.51,93.84
+STU1115,M.Tech,Not Placed,None,None,None,0,74.57
+STU1116,M.Tech,Placed,TCS,Intern,Hyderabad,10.32,60.07
+STU1117,M.Tech,Not Placed,None,None,None,0,56.7
+STU1118,BBA,Placed,Accenture,Project Manager,None,18.74,57.37
+STU1119,BBA,Not Placed,None,None,None,0,80.15
+STU1120,BBA,Placed,TCS,Intern,Hyderabad,11.41,54.12
+STU1121,B.Sc,Placed,Infosys,Project Manager,Mumbai,23.87,92.03
+STU1122,MCA,Placed,Wipro,Software Engineer,Hyderabad,18.41,72.35
+STU1123,B.Sc,Not Placed,None,None,None,0,91.9
+STU1124,M.Tech,Placed,Tech Mahindra,Project Manager,Bangalore,9.28,70.81
+STU1125,B.Sc,Placed,Amazon,Business Analyst,Delhi,6.26,63.57
+STU1126,BCA,Placed,Infosys,Intern,Chennai,24.89,70.15
+STU1127,BBA,Placed,Tech Mahindra,Business Analyst,Pune,12.81,94.01
+STU1128,B.Sc,Placed,Wipro,Intern,Bangalore,20.65,81.74
+STU1129,M.Tech,Placed,None,Business Analyst,Pune,14.81,89.19
+STU1130,B.Tech,Placed,Accenture,Project Manager,None,13,60.47
+STU1131,B.Tech,Not Placed,None,None,None,0,58.84
+STU1132,B.Sc,Placed,Amazon,Intern,Kolkata,20.46,92.02
+STU1133,B.Com,Placed,TCS,Intern,Chennai,22.64,60
+STU1134,MCA,Placed,Accenture,Data Analyst,Delhi,6.15,65.07
+STU1135,MCA,Not Placed,None,None,None,0,79.58
+STU1136,BCA,Placed,Google,Business Analyst,Kolkata,13.53,92.64
+STU1137,B.Sc,Placed,Accenture,Data Analyst,Chennai,17.9,83.83
+STU1138,BBA,Placed,None,Software Engineer,Delhi,18.6,69.33
+STU1139,BBA,Not Placed,None,None,None,0,89.55
+STU1140,BBA,Placed,Google,Business Analyst,Pune,7.08,82.6
+STU1141,MCA,Placed,Accenture,Intern,Bangalore,20.87,56.71
+STU1142,MCA,Not Placed,None,None,None,0,84.62
+STU1143,BBA,Placed,Accenture,Data Analyst,Chennai,24.1,93.83
+STU1144,B.Tech,Not Placed,None,None,None,0,53.83
+STU1145,BCA,Placed,Infosys,Project Manager,Pune,4.2,51.85
+STU1146,B.Tech,Placed,Wipro,Software Engineer,Kolkata,17.17,85.33
+STU1147,B.Sc,Not Placed,None,None,None,0,58.51
+STU1148,B.Tech,Placed,Amazon,Software Engineer,None,11.59,94.91
+STU1149,M.Tech,Not Placed,None,None,None,0,83.78
+STU1150,B.Sc,Placed,None,Intern,Chennai,21.96,86.88
+STU1151,MBA,Not Placed,None,None,None,0,52.57
+STU1152,B.Sc,Placed,Amazon,Project Manager,Pune,19.73,72.82
+STU1153,BBA,Placed,Amazon,Project Manager,Mumbai,10.32,69.57
+STU1154,MCA,Placed,Infosys,Project Manager,Bangalore,9.79,53.52
+STU1155,BCA,Not Placed,None,None,None,0,53.1
+STU1156,BCA,Placed,TCS,Business Analyst,None,13.18,70.88
+STU1157,BCA,Placed,Infosys,Intern,Mumbai,11.18,51.54
+STU1158,BCA,Placed,None,Intern,Delhi,15.31,76.35
+STU1159,BCA,Placed,Tech Mahindra,Business Analyst,Pune,3.18,51.04
+STU1160,B.Tech,Placed,Google,Project Manager,Hyderabad,21.08,57.62
+STU1161,B.Com,Placed,Google,Project Manager,Delhi,22.66,51.05
+STU1162,BCA,Placed,Tech Mahindra,Project Manager,Chennai,14.2,94.98
+STU1163,BBA,Placed,Google,Intern,Chennai,8.5,70.67
+STU1164,M.Tech,Placed,Wipro,Project Manager,Delhi,6.76,54.77
+STU1165,MBA,Placed,Wipro,Intern,Kolkata,20.52,70.83
+STU1166,MCA,Placed,TCS,Software Engineer,Mumbai,24.48,74.57
+STU1167,B.Sc,Placed,TCS,Software Engineer,Bangalore,3.67,79.46
+STU1168,B.Tech,Placed,Google,Consultant,Chennai,9.66,87.29
+STU1169,MBA,Not Placed,None,None,None,0,64.55
+STU1170,BCA,Placed,Wipro,Business Analyst,None,17.45,93.18
+STU1171,MCA,Not Placed,None,None,None,0,76.36
+STU1172,MBA,Placed,Tech Mahindra,Intern,None,19.71,61.54
+STU1173,B.Com,Not Placed,None,None,None,0,50.61
+STU1174,BCA,Placed,Tech Mahindra,Business Analyst,Kolkata,15.65,71.19
+STU1175,MCA,Placed,TCS,Project Manager,Mumbai,17.65,74.67
+STU1176,MCA,Not Placed,None,None,None,0,65.18
+STU1177,BCA,Not Placed,None,None,None,0,65.63
+STU1178,B.Sc,Not Placed,None,None,None,0,66.07
+STU1179,B.Sc,Placed,Accenture,Software Engineer,Chennai,3.57,87.83
+STU1180,M.Tech,Placed,Infosys,Consultant,Mumbai,20.58,87.08
+STU1181,MCA,Placed,TCS,Data Analyst,Delhi,18.37,56.8
+STU1182,B.Tech,Placed,TCS,Project Manager,Kolkata,9.35,82.28
+STU1183,B.Com,Placed,Accenture,Software Engineer,None,20.18,50.24
+STU1184,MBA,Not Placed,None,None,None,0,89.86
+STU1185,M.Tech,Not Placed,None,None,None,0,72.64
+STU1186,BBA,Placed,Accenture,Intern,Hyderabad,12.96,83.78
+STU1187,BBA,Placed,Accenture,Data Analyst,Delhi,11.36,57.48
+STU1188,MCA,Not Placed,None,None,None,0,89.02
+STU1189,B.Com,Not Placed,None,None,None,0,87.69
+STU1190,BCA,Placed,Accenture,Intern,Hyderabad,12.22,76.29
+STU1191,B.Com,Placed,Infosys,Data Analyst,Mumbai,24.07,84.73
+STU1192,B.Com,Not Placed,None,None,None,0,79.34
+STU1193,B.Tech,Placed,None,Intern,Bangalore,14.19,69.62
+STU1194,MBA,Placed,Accenture,Software Engineer,Delhi,5.67,87.99
+STU1195,M.Tech,Placed,Google,Software Engineer,Delhi,10.79,84.37
+STU1196,M.Tech,Placed,Infosys,Intern,Delhi,4.71,77.14
+STU1197,M.Tech,Placed,Google,Intern,Mumbai,22.94,72.17
+STU1198,B.Tech,Placed,Wipro,Business Analyst,None,11.23,62.97
+STU1199,BCA,Placed,Accenture,Data Analyst,Delhi,22.44,52.72
+STU1200,MBA,Placed,Google,Business Analyst,Hyderabad,3.47,68.48
+STU1201,B.Sc,Not Placed,None,None,None,0,60.53
+STU1202,MBA,Placed,Tech Mahindra,Consultant,Bangalore,8.29,85.37
+STU1203,MCA,Placed,Infosys,Software Engineer,Kolkata,3.96,60.18
+STU1204,BCA,Placed,Wipro,Consultant,Bangalore,13.59,52.56
+STU1205,B.Tech,Placed,Google,Intern,Pune,23.27,89.22
+STU1206,B.Com,Placed,Amazon,Consultant,Bangalore,23.13,68.94
+STU1207,MCA,Placed,Amazon,Data Analyst,Bangalore,24.96,89.87
+STU1208,BCA,Placed,None,Intern,Delhi,20.94,52.61
+STU1209,B.Com,Placed,Accenture,Consultant,Chennai,10.69,52.14
+STU1210,B.Com,Placed,Infosys,Project Manager,Bangalore,22.81,53.01
+STU1211,M.Tech,Not Placed,None,None,None,0,62.65
+STU1212,BCA,Placed,Accenture,Intern,Chennai,19.51,81.92
+STU1213,M.Tech,Placed,Amazon,Software Engineer,Chennai,4.64,79.24
+STU1214,B.Sc,Not Placed,None,None,None,0,74.03
+STU1215,M.Tech,Placed,TCS,Software Engineer,Chennai,17.66,94.63
+STU1216,M.Tech,Placed,Tech Mahindra,Business Analyst,Kolkata,5.84,73.31
+STU1217,BBA,Placed,Infosys,Software Engineer,Delhi,6.24,59.86
+STU1218,MCA,Not Placed,None,None,None,0,64.83
+STU1219,BCA,Placed,Amazon,Software Engineer,Delhi,6.15,55.15
+STU1220,MBA,Placed,None,Software Engineer,Mumbai,8.14,58.54
+STU1221,BBA,Placed,TCS,Business Analyst,Kolkata,18.26,82.67
+STU1222,M.Tech,Placed,TCS,Data Analyst,None,18.32,53.88
+STU1223,B.Com,Not Placed,None,None,None,0,90.31
+STU1224,MCA,Placed,None,Project Manager,Mumbai,10.48,91.7
+STU1225,B.Tech,Placed,Tech Mahindra,Data Analyst,Mumbai,23.55,75.3
+STU1226,B.Sc,Placed,Tech Mahindra,Project Manager,None,8.15,66.76
+STU1227,B.Tech,Placed,Accenture,Consultant,Hyderabad,10.56,92.58
+STU1228,B.Tech,Placed,Infosys,Intern,Delhi,13.09,77.34
+STU1229,B.Sc,Placed,Accenture,Business Analyst,Chennai,24.56,65.18
+STU1230,M.Tech,Placed,None,Data Analyst,Bangalore,7.19,86.86
+STU1231,BBA,Placed,Infosys,Data Analyst,None,12.49,61.75
+STU1232,MBA,Placed,Wipro,Consultant,Kolkata,24.37,53.17
+STU1233,BCA,Placed,None,Project Manager,None,16.73,91.31
+STU1234,MCA,Placed,None,Intern,Delhi,15.74,84.03
+STU1235,BBA,Placed,None,Business Analyst,None,23.49,55.5
+STU1236,MCA,Placed,Amazon,Business Analyst,None,21.93,86.94
+STU1237,MBA,Placed,Tech Mahindra,Project Manager,Mumbai,16.02,63.46
+STU1238,MCA,Placed,Infosys,Business Analyst,Mumbai,13.19,84.51
+STU1239,BBA,Placed,Accenture,Business Analyst,Kolkata,20.12,85.67
+STU1240,BBA,Not Placed,None,None,None,0,69.28
+STU1241,M.Tech,Not Placed,None,None,None,0,85.87
+STU1242,B.Com,Placed,Amazon,Software Engineer,Mumbai,6.02,64.45
+STU1243,B.Tech,Placed,Accenture,Data Analyst,Pune,9.64,65.58
+STU1244,MCA,Placed,None,Software Engineer,Pune,6.3,71.64
+STU1245,B.Sc,Placed,Accenture,Intern,Pune,7.61,81.88
+STU1246,MCA,Placed,Google,Software Engineer,Pune,6.97,67.01
+STU1247,B.Com,Placed,None,Business Analyst,Chennai,3.9,57.15
+STU1248,B.Tech,Placed,Infosys,Project Manager,Pune,19.79,68.81
+STU1249,MCA,Placed,Wipro,Data Analyst,Mumbai,17.6,70.43
+STU1250,B.Tech,Placed,None,Project Manager,Pune,17.94,89.95
+STU1251,B.Sc,Not Placed,None,None,None,0,59.95
+STU1252,MCA,Placed,Amazon,Software Engineer,Pune,21.53,89.42
+STU1253,M.Tech,Placed,Accenture,Business Analyst,Delhi,3.77,75.6
+STU1254,BCA,Not Placed,None,None,None,0,69.82
+STU1255,M.Tech,Placed,Accenture,Project Manager,Kolkata,24.64,85.98
+STU1256,MBA,Placed,Amazon,Business Analyst,Bangalore,8.2,62.13
+STU1257,MBA,Placed,TCS,Consultant,Hyderabad,23.04,79.87
+STU1258,BBA,Placed,Google,Business Analyst,Delhi,24.1,55.22
+STU1259,M.Tech,Placed,Accenture,Data Analyst,Delhi,8.05,74.16
+STU1260,B.Tech,Placed,Accenture,Project Manager,Hyderabad,11.93,67.03
+STU1261,MCA,Placed,TCS,Software Engineer,Hyderabad,11.66,79.7
+STU1262,BBA,Placed,Infosys,Software Engineer,Kolkata,16.76,69.98
+STU1263,MCA,Not Placed,None,None,None,0,54.82
+STU1264,MBA,Placed,Tech Mahindra,Intern,Pune,24.86,73.2
+STU1265,B.Com,Placed,Accenture,Consultant,Kolkata,3.49,73.57
+STU1266,BBA,Placed,Google,Business Analyst,Kolkata,23.64,91.1
+STU1267,B.Tech,Placed,None,Data Analyst,Delhi,23.92,80.35
+STU1268,B.Sc,Not Placed,None,None,None,0,54.7
+STU1269,B.Com,Placed,Accenture,Consultant,Bangalore,11.39,54.75
+STU1270,BBA,Placed,Tech Mahindra,Business Analyst,Chennai,22.37,72.57
+STU1271,MCA,Placed,None,Project Manager,Hyderabad,21.08,83.29
+STU1272,BCA,Placed,Amazon,Software Engineer,Delhi,23.71,58.29
+STU1273,MCA,Placed,Wipro,Intern,Kolkata,13.37,86.78
+STU1274,MCA,Placed,Infosys,Software Engineer,Hyderabad,22.51,73.96
+STU1275,MBA,Placed,Accenture,Data Analyst,Kolkata,5.14,72.91
+STU1276,B.Com,Not Placed,None,None,None,0,63.45
+STU1277,B.Com,Placed,Infosys,Intern,Bangalore,16.17,76.05
+STU1278,M.Tech,Placed,Tech Mahindra,Business Analyst,Delhi,19.9,90.29
+STU1279,M.Tech,Placed,Accenture,Intern,Mumbai,8.17,85.21
+STU1280,BBA,Not Placed,None,None,None,0,67.52
+STU1281,M.Tech,Placed,Infosys,Consultant,None,17.54,67.83
+STU1282,B.Tech,Placed,TCS,Intern,Hyderabad,21.3,86.8
+STU1283,B.Com,Placed,None,Software Engineer,Bangalore,9.42,69.3
+STU1284,MBA,Not Placed,None,None,None,0,71.72
+STU1285,B.Com,Placed,Accenture,Project Manager,Hyderabad,15.05,77.1
+STU1286,M.Tech,Placed,Amazon,Data Analyst,Hyderabad,7.44,50.35
+STU1287,B.Sc,Placed,Infosys,Consultant,Chennai,6.45,52.31
+STU1288,MCA,Placed,Infosys,Data Analyst,None,11.61,82.75
+STU1289,B.Com,Placed,Amazon,Data Analyst,Kolkata,14.84,85.2
+STU1290,B.Com,Not Placed,None,None,None,0,59.32
+STU1291,B.Sc,Placed,None,Project Manager,Delhi,23.67,80.62
+STU1292,MCA,Not Placed,None,None,None,0,59.72
+STU1293,BCA,Placed,Google,Business Analyst,None,8.25,87.05
+STU1294,B.Sc,Not Placed,None,None,None,0,59.17
+STU1295,B.Sc,Placed,Wipro,Project Manager,Pune,24.97,75.35
+STU1296,MBA,Placed,Infosys,Business Analyst,Chennai,24.49,66.36
+STU1297,B.Sc,Not Placed,None,None,None,0,56.28
+STU1298,B.Sc,Not Placed,None,None,None,0,61.67
+STU1299,BBA,Placed,TCS,Consultant,None,7.57,82.58
+STU1300,MBA,Placed,Accenture,Intern,Delhi,15.46,61.81
+STU1301,MBA,Not Placed,None,None,None,0,85.84
+STU1302,BBA,Not Placed,None,None,None,0,87.34
+STU1303,M.Tech,Placed,Accenture,Consultant,Chennai,14.56,53.88
+STU1304,M.Tech,Placed,None,Consultant,Mumbai,17.63,79.91
+STU1305,BCA,Placed,Tech Mahindra,Consultant,Chennai,12.02,61.44
+STU1306,B.Tech,Placed,Google,Data Analyst,Chennai,8.79,80.21
+STU1307,BCA,Placed,Amazon,Intern,None,7.48,67.97
+STU1308,MCA,Not Placed,None,None,None,0,64.63
+STU1309,BCA,Placed,Google,Consultant,Mumbai,7.84,62.54
+STU1310,B.Tech,Not Placed,None,None,None,0,84.6
+STU1311,BBA,Placed,Accenture,Data Analyst,Pune,7.97,61.3
+STU1312,B.Sc,Placed,Google,Software Engineer,Bangalore,18.49,56.66
+STU1313,B.Sc,Placed,Amazon,Software Engineer,Kolkata,23.35,53.63
+STU1314,BBA,Placed,Tech Mahindra,Consultant,Bangalore,5.92,62.67
+STU1315,B.Com,Not Placed,None,None,None,0,79.97
+STU1316,B.Tech,Not Placed,None,None,None,0,64.92
+STU1317,M.Tech,Placed,Tech Mahindra,Software Engineer,Bangalore,3.21,74.71
+STU1318,B.Com,Placed,Accenture,Software Engineer,Hyderabad,20.11,83.07
+STU1319,MBA,Not Placed,None,None,None,0,92.34
+STU1320,B.Sc,Placed,Amazon,Intern,None,12.78,92.27
+STU1321,MBA,Placed,Google,Data Analyst,Kolkata,22.93,70.67
+STU1322,MBA,Not Placed,None,None,None,0,82.34
+STU1323,M.Tech,Placed,Wipro,Project Manager,None,11.6,61.83
+STU1324,M.Tech,Placed,TCS,Project Manager,Kolkata,23.44,53.52
+STU1325,B.Sc,Placed,TCS,Software Engineer,Bangalore,24.56,75.42
+STU1326,BCA,Placed,Infosys,Business Analyst,Delhi,19.08,72.04
+STU1327,B.Tech,Not Placed,None,None,None,0,57.34
+STU1328,B.Com,Placed,Accenture,Business Analyst,None,10.85,87.07
+STU1329,MCA,Not Placed,None,None,None,0,57.87
+STU1330,B.Tech,Placed,None,Software Engineer,Delhi,13.01,92.07
+STU1331,B.Tech,Not Placed,None,None,None,0,70.99
+STU1332,B.Tech,Placed,Accenture,Data Analyst,Delhi,5.03,84.84
+STU1333,MBA,Not Placed,None,None,None,0,72.6
+STU1334,BCA,Placed,Accenture,Intern,Hyderabad,8.66,65.98
+STU1335,B.Tech,Placed,Google,Consultant,Delhi,5.55,93.9
+STU1336,BCA,Placed,Accenture,Project Manager,Bangalore,17.2,78.09
+STU1337,MCA,Placed,Wipro,Data Analyst,Hyderabad,17.61,55.98
+STU1338,B.Tech,Placed,Amazon,Project Manager,Kolkata,19.13,75.81
+STU1339,BCA,Not Placed,None,None,None,0,77.18
+STU1340,BCA,Not Placed,None,None,None,0,84.12
+STU1341,BCA,Placed,Infosys,Business Analyst,None,22.32,87.95
+STU1342,M.Tech,Placed,Tech Mahindra,Data Analyst,Pune,13.54,55.1
+STU1343,M.Tech,Not Placed,None,None,None,0,78.75
+STU1344,M.Tech,Placed,None,Intern,None,13.44,64.76
+STU1345,BBA,Not Placed,None,None,None,0,59.06
+STU1346,B.Sc,Not Placed,None,None,None,0,66.61
+STU1347,B.Sc,Placed,Amazon,Business Analyst,Hyderabad,8.79,61.12
+STU1348,M.Tech,Placed,Google,Data Analyst,Pune,14.04,88.75
+STU1349,M.Tech,Placed,None,Software Engineer,Pune,13.9,93.63
+STU1350,MCA,Placed,Wipro,Intern,Kolkata,6.89,73.75
+STU1351,MCA,Placed,Accenture,Business Analyst,Bangalore,10.34,82.3
+STU1352,M.Tech,Not Placed,None,None,None,0,54.34
+STU1353,MCA,Placed,Google,Software Engineer,Chennai,8.59,86.1
+STU1354,MCA,Placed,Tech Mahindra,Consultant,Bangalore,15.8,76.66
+STU1355,B.Com,Placed,None,Business Analyst,None,23.45,72.74
+STU1356,MCA,Placed,None,Software Engineer,Pune,10.38,76.69
+STU1357,MBA,Placed,Amazon,Consultant,Pune,20.47,89.92
+STU1358,MBA,Placed,Tech Mahindra,Intern,Kolkata,22.88,59.06
+STU1359,BCA,Placed,Amazon,Data Analyst,Mumbai,21.01,80.83
+STU1360,B.Com,Placed,TCS,Intern,Delhi,22.49,78.44
+STU1361,MBA,Placed,Wipro,Intern,Hyderabad,14.55,90.62
+STU1362,M.Tech,Placed,Amazon,Business Analyst,Bangalore,13.58,79.52
+STU1363,BCA,Placed,Wipro,Software Engineer,Hyderabad,15.39,86.26
+STU1364,M.Tech,Placed,Tech Mahindra,Intern,Pune,14.54,69.21
+STU1365,BCA,Placed,Tech Mahindra,Intern,Bangalore,22.16,85.81
+STU1366,M.Tech,Placed,Accenture,Intern,Chennai,19.31,59.89
+STU1367,MCA,Placed,Tech Mahindra,Project Manager,Bangalore,24.24,57.02
+STU1368,BCA,Placed,TCS,Business Analyst,Pune,8.62,61.34
+STU1369,BBA,Placed,None,Software Engineer,Bangalore,12.65,72.38
+STU1370,BCA,Placed,None,Business Analyst,Mumbai,7.41,62.45
+STU1371,BCA,Placed,TCS,Business Analyst,Bangalore,24.34,89.93
+STU1372,B.Com,Placed,Tech Mahindra,Business Analyst,Pune,13.86,85.44
+STU1373,BBA,Placed,Accenture,Software Engineer,Kolkata,6.14,50.38
+STU1374,BCA,Not Placed,None,None,None,0,63.56
+STU1375,MCA,Placed,None,Intern,Delhi,24.12,87.24
+STU1376,BBA,Placed,Amazon,Data Analyst,Hyderabad,20.19,51.18
+STU1377,B.Sc,Placed,Tech Mahindra,Consultant,Delhi,9.65,89.05
+STU1378,MCA,Placed,Google,Intern,Hyderabad,9,83.6
+STU1379,M.Tech,Placed,Amazon,Software Engineer,Mumbai,5.7,93.4
+STU1380,B.Sc,Placed,Amazon,Consultant,Pune,20.47,69.87
+STU1381,MCA,Placed,TCS,Consultant,Hyderabad,10.33,66.3
+STU1382,M.Tech,Not Placed,None,None,None,0,62.31
+STU1383,B.Tech,Not Placed,None,None,None,0,87.27
+STU1384,B.Sc,Not Placed,None,None,None,0,53.83
+STU1385,B.Tech,Not Placed,None,None,None,0,74.46
+STU1386,B.Tech,Not Placed,None,None,None,0,53.37
+STU1387,MCA,Placed,Accenture,Consultant,None,14.25,54.95
+STU1388,BCA,Not Placed,None,None,None,0,77.19
+STU1389,BBA,Not Placed,None,None,None,0,86.42
+STU1390,BCA,Placed,Google,Data Analyst,Mumbai,24.29,86.29
+STU1391,B.Com,Placed,Amazon,Project Manager,Bangalore,12.21,65.91
+STU1392,B.Sc,Placed,Google,Software Engineer,Delhi,8.96,82.14
+STU1393,B.Com,Placed,Amazon,Consultant,Pune,13.47,70.62
+STU1394,B.Sc,Placed,Wipro,Software Engineer,None,19.43,70.38
+STU1395,B.Com,Placed,Accenture,Software Engineer,Hyderabad,7.22,78.67
+STU1396,B.Com,Placed,Google,Consultant,Hyderabad,16.15,53.95
+STU1397,B.Com,Not Placed,None,None,None,0,61.77
+STU1398,M.Tech,Placed,Accenture,Business Analyst,Kolkata,22.1,65.1
+STU1399,BBA,Placed,Tech Mahindra,Software Engineer,Pune,13.29,69.88
+STU1400,B.Sc,Placed,Infosys,Business Analyst,Pune,10.96,50.11
+STU1401,B.Tech,Not Placed,None,None,None,0,57.27
+STU1402,B.Com,Placed,Tech Mahindra,Project Manager,Bangalore,11.24,80.39
+STU1403,M.Tech,Placed,TCS,Data Analyst,Pune,4.5,73.98
+STU1404,B.Com,Not Placed,None,None,None,0,58.84
+STU1405,M.Tech,Not Placed,None,None,None,0,92.06
+STU1406,B.Tech,Placed,None,Consultant,Hyderabad,11.42,53.95
+STU1407,BBA,Placed,Infosys,Consultant,Bangalore,20.14,56.05
+STU1408,B.Sc,Not Placed,None,None,None,0,92.29
+STU1409,M.Tech,Placed,Wipro,Business Analyst,None,23.41,89.79
+STU1410,BCA,Placed,Accenture,Project Manager,Chennai,9.32,73.5
+STU1411,B.Sc,Placed,Accenture,Consultant,Bangalore,20.62,62
+STU1412,B.Com,Not Placed,None,None,None,0,67.48
+STU1413,B.Com,Placed,Amazon,Consultant,Chennai,18.96,74.93
+STU1414,MBA,Placed,Infosys,Project Manager,None,15.89,85.06
+STU1415,B.Com,Placed,None,Consultant,Hyderabad,18.91,86.28
+STU1416,B.Sc,Placed,Wipro,Project Manager,Chennai,10.66,52.87
+STU1417,B.Com,Placed,None,Consultant,None,3.6,93.2
+STU1418,MCA,Placed,Wipro,Intern,Chennai,4.86,83.13
+STU1419,MBA,Placed,Accenture,Business Analyst,Pune,24.85,90.94
+STU1420,B.Sc,Not Placed,None,None,None,0,75.97
+STU1421,MBA,Placed,Wipro,Intern,Delhi,16.86,80.96
+STU1422,B.Com,Placed,Tech Mahindra,Project Manager,Chennai,6.02,90.81
+STU1423,B.Tech,Placed,Infosys,Consultant,Kolkata,8.91,83.28
+STU1424,B.Sc,Placed,Amazon,Data Analyst,Delhi,20.8,84.9
+STU1425,MBA,Placed,Wipro,Data Analyst,Pune,15.86,85.03
+STU1426,MBA,Placed,Accenture,Software Engineer,Pune,9.35,85.48
+STU1427,BBA,Not Placed,None,None,None,0,53.55
+STU1428,B.Sc,Placed,None,Data Analyst,Hyderabad,23.16,81.14
+STU1429,B.Sc,Not Placed,None,None,None,0,90.89
+STU1430,BCA,Placed,Infosys,Data Analyst,Hyderabad,12.57,85.37
+STU1431,BCA,Placed,None,Data Analyst,Chennai,23.12,92.55
+STU1432,BCA,Placed,TCS,Intern,Bangalore,8.78,85.13
+STU1433,B.Com,Not Placed,None,None,None,0,71.44
+STU1434,B.Tech,Not Placed,None,None,None,0,83.49
+STU1435,MCA,Not Placed,None,None,None,0,89.67
+STU1436,BBA,Not Placed,None,None,None,0,86.67
+STU1437,B.Tech,Not Placed,None,None,None,0,68.78
+STU1438,B.Sc,Placed,Amazon,Software Engineer,None,15.26,65.62
+STU1439,BBA,Not Placed,None,None,None,0,92.82
+STU1440,BBA,Not Placed,None,None,None,0,58.85
+STU1441,B.Com,Not Placed,None,None,None,0,80.07
+STU1442,BBA,Placed,Google,Software Engineer,Bangalore,15.21,66.87
+STU1443,BBA,Placed,Google,Software Engineer,Pune,14.56,57.22
+STU1444,B.Tech,Placed,TCS,Data Analyst,Chennai,5.55,64.91
+STU1445,M.Tech,Not Placed,None,None,None,0,91.32
+STU1446,M.Tech,Placed,Amazon,Business Analyst,Bangalore,21.81,86.8
+STU1447,BBA,Placed,Wipro,Intern,Pune,19.74,56.47
+STU1448,BCA,Placed,Tech Mahindra,Project Manager,Delhi,13.83,84.93
+STU1449,B.Sc,Not Placed,None,None,None,0,50.14
+STU1450,B.Sc,Placed,Infosys,Project Manager,Bangalore,15.66,58.03
+STU1451,B.Com,Placed,Accenture,Software Engineer,Delhi,18.75,81.28
+STU1452,B.Com,Placed,Accenture,Software Engineer,Pune,19.14,79.34
+STU1453,B.Sc,Placed,TCS,Intern,None,16.21,60.42
+STU1454,M.Tech,Placed,Infosys,Project Manager,Bangalore,14.67,91.89
+STU1455,B.Tech,Placed,Infosys,Business Analyst,Pune,7.86,68.21
+STU1456,MCA,Placed,Accenture,Intern,None,4.5,67.87
+STU1457,M.Tech,Placed,None,Consultant,None,18.76,77.4
+STU1458,M.Tech,Placed,None,Business Analyst,Chennai,8.46,83.46
+STU1459,B.Com,Placed,TCS,Intern,Delhi,11.07,72.53
+STU1460,BBA,Not Placed,None,None,None,0,59.85
+STU1461,B.Tech,Placed,None,Business Analyst,Bangalore,18.77,68.93
+STU1462,BCA,Not Placed,None,None,None,0,52.9
+STU1463,BCA,Not Placed,None,None,None,0,88.5
+STU1464,M.Tech,Placed,TCS,Consultant,Hyderabad,6.88,61.37
+STU1465,MBA,Placed,Amazon,Software Engineer,Chennai,9.41,81.88
+STU1466,B.Com,Placed,Wipro,Business Analyst,Pune,6.8,91.66
+STU1467,MBA,Placed,Tech Mahindra,Software Engineer,Chennai,17.63,68.12
+STU1468,B.Sc,Placed,None,Project Manager,Mumbai,16.39,76.58
+STU1469,MCA,Placed,Amazon,Intern,Mumbai,16.82,80.88
+STU1470,MBA,Placed,Wipro,Data Analyst,Delhi,5.38,87.85
+STU1471,M.Tech,Placed,None,Data Analyst,Bangalore,5.16,74.26
+STU1472,MBA,Placed,TCS,Consultant,Bangalore,4.86,90.13
+STU1473,B.Com,Not Placed,None,None,None,0,89.39
+STU1474,M.Tech,Placed,Google,Software Engineer,Delhi,24.87,74.36
+STU1475,BCA,Placed,None,Intern,Kolkata,7.1,89.37
+STU1476,BBA,Placed,None,Project Manager,Kolkata,7.89,51.05
+STU1477,BCA,Placed,Accenture,Project Manager,Pune,12.12,50.38
+STU1478,BBA,Placed,Amazon,Data Analyst,Chennai,14.19,86.22
+STU1479,BCA,Placed,Tech Mahindra,Business Analyst,Delhi,11.5,77.23
+STU1480,B.Com,Placed,Tech Mahindra,Software Engineer,Hyderabad,19.1,51.71
+STU1481,B.Com,Placed,Accenture,Software Engineer,Mumbai,5.26,62.71
+STU1482,B.Com,Placed,Accenture,Software Engineer,Pune,5.94,72.92
+STU1483,MCA,Placed,None,Consultant,Delhi,24.88,69.96
+STU1484,BCA,Placed,Infosys,Intern,Chennai,23.66,62.29
+STU1485,B.Sc,Placed,Google,Software Engineer,Mumbai,21.63,86.85
+STU1486,MBA,Placed,TCS,Consultant,Mumbai,14.76,56.93
+STU1487,M.Tech,Not Placed,None,None,None,0,71.71
+STU1488,BBA,Placed,Accenture,Project Manager,Pune,22.82,57.01
+STU1489,B.Sc,Placed,Google,Business Analyst,Mumbai,21.63,60.11
+STU1490,M.Tech,Placed,None,Business Analyst,Delhi,18.77,66.98
+STU1491,MCA,Placed,Wipro,Data Analyst,Delhi,9.88,57.58
+STU1492,B.Tech,Placed,Google,Intern,Bangalore,4.54,69.31
+STU1493,B.Com,Not Placed,None,None,None,0,88.24
+STU1494,B.Sc,Not Placed,None,None,None,0,90.56
+STU1495,M.Tech,Placed,Tech Mahindra,Business Analyst,None,21.41,54.5
+STU1496,B.Com,Placed,Google,Business Analyst,Mumbai,18.97,61.41
+STU1497,M.Tech,Placed,None,Intern,Mumbai,12.43,62.46
+STU1498,MCA,Not Placed,None,None,None,0,79.13
+STU1499,MBA,Placed,TCS,Consultant,Kolkata,9.78,93.26
