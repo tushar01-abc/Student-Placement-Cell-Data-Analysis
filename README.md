@@ -160,3 +160,12 @@ Higher degree marks strongly correlate with placement success
 
 Technical roles contribute the largest share of salary packages
 
+## 📊 Dashboard Preview
+
+<p align="center">
+  <img src="https://github.com/tushar01-abc/Student-Placement-Cell-Data-Analysis/blob/main/graduate%20student%20placement%20dashboard.png" width="900">
+</p>
+
+
+
+
